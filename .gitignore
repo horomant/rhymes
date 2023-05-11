@@ -1,0 +1,7 @@
+*.ipynb_checkpoints/*
+*__pycache__/*
+*DLK-master*
+*dlk.v5.german*
+*dta.german.poetry*
+*/.ipynb_checkpoints/*
+*/__pycache__/*

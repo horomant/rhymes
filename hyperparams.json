@@ -1,0 +1,1 @@
+{"numnegs": 3, "maxlen": 10, "model_name": "Siamnet_params", "model_name_final": "reims_gen_final", "words_vocab": "words_vocab", "letters_vocab": "letters_vocab", "model_name_omnistanza": "Siamnet_params_omnistanza", "letters_vocab_omnistanza": "letters_vocab_omnistanza", "omnistanza_final": "reims_omni_gen", "omnistanza_words_vocab": "omni_vocab"}

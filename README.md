@@ -5,18 +5,18 @@
  
 How to use:
 
-1) If you don't want to download everything, you'll stil need to download these files:
+1) If you don't want to download everything, you'll still need to download these files:
    - Part 4 (Generate).ipnb
    - hyperparams.json
    - reimsiam.py
-   - Siamnet_params
-   - letters_vocab
-   - words_vocab
-   - reims_gen_final
-   - letters_vocab_omnistanza
-   - Siamnet_params_omnistanza
-   - omni_vocab
    - reims_omni_gen
+   - reims_gen_final
+   - Siamnet_params
+   - Siamnet_params_omnistanza
+   - letters_vocab
+   - letters_vocab_omnistanza
+   - words_vocab
+   - omni_vocab
 
 2) Open Part 4 (Generate).ipnb
 

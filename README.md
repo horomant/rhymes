@@ -5,7 +5,7 @@
  
 How to use:
 
-1) If you don't want to download everything, you'll still need to download these files:
+1) If you don't want to download everything, you'll still need these files:
    - Part 4 (Generate).ipnb
    - hyperparams.json
    - reimsiam.py
